@@ -17239,5 +17239,10 @@ textarea.form-control-lg {
 .first_section {
   height: 500px;
 }
+@media (max-width: 768px) {
+  .first_section {
+    height: 300px;
+  }
+}
 
 /*# sourceMappingURL=app.css.map */
